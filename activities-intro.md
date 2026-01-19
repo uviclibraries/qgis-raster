@@ -5,8 +5,8 @@ nav_order: 1
 parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
-<img src="qgis-logo.png" style="float:right;width:180px;">
-Please review the following <a href="IntroRaster_WorkshopOverview.pdf" target="_blank">
+<img src="images/qgis-logo.png" style="float:right;width:180px;">
+Please review the following <a href="images/IntroRaster_WorkshopOverview.pdf" target="_blank">
   Introductory Slides
 </a>
 
