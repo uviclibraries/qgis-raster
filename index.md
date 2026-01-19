@@ -3,9 +3,9 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/qgis-logo.png" style="float:right;width:180px;">
+<img src="images/QGIS-q.png" style="float:right;width:180px;">
 
-# Introduction to Raster *QGIS*
+# Introduction to Raster with *QGIS*
 
 - Pre-workshop activities: 5 min 
 - Introductory presentation: 30 min
