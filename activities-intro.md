@@ -11,7 +11,7 @@ Please review the following <a href="images/IntroRaster_WorkshopOverview.pdf" ta
 </a>
 
 
-[Download](https://maps.library.uvic.ca/IntroQGIS_RasterData.zip){:target="_blank"} workshop data
+[Download](images/QGIS_IntrotoRaster_Data.zip){:target="_blank"} workshop data
 
 
 
