@@ -18,6 +18,15 @@ nav_order: 1
 ## This Workshop
 This introductory workshop will cover basic concepts in GIS and QGIS, and will include exercises on utilising raster data, adding styles and labels, filtering, and making a map. This workshop is designed to help students who are new to QGIS to understand and utilize some of the main features.
 
+# Note
+With *QGIS* someone could:
+- create beautiful maps
+and/or
+- conduct spatial analysis
+
+*QGIS* has hundreds of tools and possiblites...
+This workshop is an **Introduction** to *QGIS* with raster data
+
 ## Learning objectives
 - Distinguish between GIS and other web map interfaces
 - Identify and navigate key *QGIS* interface elements (Layers panel, Menu bar, Map view)
