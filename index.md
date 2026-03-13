@@ -5,10 +5,10 @@ nav_order: 1
 ---
 <img src="images/QGIS-q.png" style="float:right;width:180px;">
 
-# Introduction to Raster with *QGIS*
+# Introduction to *QGIS* with Raster Data
 
 - Pre-workshop activities: 5 min 
-- Introductory presentation: 30 min
+- Introductory presentation: 20-30 min
 - Hands-on activities: 60 min
 
 ## Why QGIS? 
@@ -16,6 +16,11 @@ nav_order: 1
 [QGIS](https://qgis.org/download/){:target="_blank"} is a free, open source desktop Geographic Information Systems (GIS) package that allows users to analyze and edit spatial information and create and export maps.
 
 ## This Workshop
+**It is highly recommended to:**
+- **Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)**
+- **Use a second monitor or print out the workshop activities**
+- **Use mouse with a scroll wheel**
+
 This introductory workshop will cover basic concepts in GIS and QGIS, and will include exercises on utilising raster data, adding styles and labels, filtering, and making a map. This workshop is designed to help students who are new to QGIS to understand and utilize some of the main features.
 
 ### Note
