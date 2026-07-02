@@ -58,4 +58,4 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - Jekyll-include-cache
+  - jekyll-include-cache
